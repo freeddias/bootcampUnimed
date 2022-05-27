@@ -1,2 +1,2 @@
-# bootcampUnimed
-Repositório para Bootcamp UNIMED - DIO
+# Bootcamp Unimed
+Repositório para códigos e desafios presentes no Bootcamp UNIMED - DIO
